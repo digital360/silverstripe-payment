@@ -5,7 +5,7 @@
  * 
  * @see PaymentGateway::validate()
  */
-class CreditCard {
+class SilverStripeCreditCard {
 	
 	/**
 	 * The card number patterns for credit card companies
